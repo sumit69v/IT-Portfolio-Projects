@@ -1,7 +1,7 @@
 # IT-Portfolio-Projects
 IT Portfolio Projects - IT infrastructure and Network Engineering
 
-## Enterprise-Infrastructure-Lab
+### Enterprise-Infrastructure-Lab
 Complete business IT infrastructure
 
 ## Active-Directory-Lab
