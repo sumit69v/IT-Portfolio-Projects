@@ -4,29 +4,29 @@ IT Portfolio Projects - IT infrastructure and Network Engineering
 ### Enterprise-Infrastructure-Lab
 Complete business IT infrastructure
 
-## Active-Directory-Lab
+### Active-Directory-Lab
 Windows Server, AD, DNS, DHCP and GPO
 
-## Cisco-Enterprise-Network
+### Cisco-Enterprise-Network
 VLAN, routing, switching and ACLs
 
-## Firewall-VPN-Security-Lab
+### Firewall-VPN-Security-Lab
 pfsense, VPN and network security
 
-## Microsoft-365-Entra-Lab
+### Microsoft-365-Entra-Lab
 Microsoft 365 and hybrid identity
 
-## Intune-Endpoint-Management
+### Intune-Endpoint-Management
 Windows Endpoint deployment
 
-## Network-Monitoring-Lab
+### Network-Monitoring-Lab
 Zabbix, SNMP and Grafana
 
-## Virtualization-Disaster-Recovery
+### Virtualization-Disaster-Recovery
 Hyper-V, Vmware and Veeam
 
-## Wazuh-SOC-Lab
+### Wazuh-SOC-Lab
 Security monitoring and incident response
 
-## Network-Automation
+### Network-Automation
 Python, Ansible and Powershell
